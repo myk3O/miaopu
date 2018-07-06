@@ -1,0 +1,14 @@
+﻿2015/12/15 9:39:38     一般access_token：3jk0loRYqhOPfPgVwsu0i0Gl_ho7h6W9w1m-_TqfcNfYU3B3n5ptO2fsRWzGm3hrOUiYxnfu-hi6pIz7bkIjXKvGzT15zVTO9mpgXZrz9QEBUAcAAAVOU
+
+2015/12/15 9:39:38     jsapi_ticket：kgt8ON7yVITDhtdwci0qeUsGFLf9QBb0hYZ6B3bUuLE_r3L8AfZquXQdrEhxCfgTTgXtn5TUyjoKjEWO6xzTQQ
+
+2015/12/15 9:39:38     2015-12-15 09:39:38
+
+2015/12/15 22:31:04     一般access_token：0iRw2zQdk4ZTmdrqqlQHaoiaOaUqCXwpV6tWUGa_PduIYr2Svt4Ek1x2VfOpPBEJpX766-pC_y3E1WYrRX6qMOq8Jfx4JOLDJ0jVMm7dWJ4ZDDgADAVZZ
+
+2015/12/15 22:31:04     jsapi_ticket：kgt8ON7yVITDhtdwci0qeUsGFLf9QBb0hYZ6B3bUuLG4lF3Fl-1q-U6wCthJOCuwqLwjrcO0Gwq0rLDd7ZdodQ
+
+2015/12/15 22:31:04     2015-12-15 22:31:03
+
+2015/12/15 22:31:05     全球分红插入失败!   2015-12-15 22:31:03
+

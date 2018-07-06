@@ -1,0 +1,176 @@
+﻿2015/12/12 11:00:43      ============ 开始 获取微信用户相关信息 =====================
+
+2015/12/12 11:00:43      ============ 开始 获取微信用户相关信息11 =====================
+
+2015/12/12 11:00:53      ============ 开始 获取微信用户相关信息 =====================
+
+2015/12/12 11:00:53      ============ 开始 获取微信用户相关信息11 =====================
+
+2015/12/12 14:20:30     支付页面，用户=64
+
+2015/12/12 14:20:30     产品价格=0.01
+
+2015/12/12 14:20:30     WeiPay 页面  sign：7EEF12A0032F4DBA44F0BEAC34BB1C45
+
+2015/12/12 14:20:30     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB642015121202203097,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[e2ef524fbf3d9fe611d5a8e90fefdc9c]]></nonce_str><out_trade_no><![CDATA[MB642015121202203097]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[7EEF12A0032F4DBA44F0BEAC34BB1C45]]></sign></xml>
+
+2015/12/12 14:20:30     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:20:31     WeiPay 页面  paySign：F2B3451D4E8211836909F84876903AD3
+
+2015/12/12 14:24:02     支付页面，用户=64
+
+2015/12/12 14:24:02     产品价格=0.01
+
+2015/12/12 14:24:02     WeiPay 页面  sign：94D2FDF3FA8E0A3314AF5F978816C5A8
+
+2015/12/12 14:24:02     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022402211,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[eb163727917cbba1eea208541a643e74]]></nonce_str><out_trade_no><![CDATA[MB6420151212022402211]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[94D2FDF3FA8E0A3314AF5F978816C5A8]]></sign></xml>
+
+2015/12/12 14:24:02     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:24:02     WeiPay 页面  paySign：13C7674D52FBD9CEF307C593A1A29AB1
+
+2015/12/12 14:24:12     支付页面，用户=64
+
+2015/12/12 14:24:12     产品价格=0.01
+
+2015/12/12 14:24:12     WeiPay 页面  sign：C5A4EFE91621852E506772892A90AD03
+
+2015/12/12 14:24:12     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022412698,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[99bcfcd754a98ce89cb86f73acc04645]]></nonce_str><out_trade_no><![CDATA[MB6420151212022412698]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[C5A4EFE91621852E506772892A90AD03]]></sign></xml>
+
+2015/12/12 14:24:12     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:24:12     WeiPay 页面  paySign：592EA59442C369AAB273373286E3AC16
+
+2015/12/12 14:24:59     支付页面，用户=64
+
+2015/12/12 14:25:00     产品价格=0.01
+
+2015/12/12 14:25:00     WeiPay 页面  sign：0C6A4202F81CC3717611A9CDE8510F72
+
+2015/12/12 14:25:00     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022500433,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[019d385eb67632a7e958e23f24bd07d7]]></nonce_str><out_trade_no><![CDATA[MB6420151212022500433]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[0C6A4202F81CC3717611A9CDE8510F72]]></sign></xml>
+
+2015/12/12 14:25:00     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:25:00     WeiPay 页面  paySign：E306CD39338003260A123F058389A761
+
+2015/12/12 14:25:39     支付页面，用户=64
+
+2015/12/12 14:25:40     产品价格=0.01
+
+2015/12/12 14:25:40     WeiPay 页面  sign：301BCC4C340CC0BA288D6A1DFBD77BF4
+
+2015/12/12 14:25:40     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022540930,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[1cc3633c579a90cfdd895e64021e2163]]></nonce_str><out_trade_no><![CDATA[MB6420151212022540930]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[301BCC4C340CC0BA288D6A1DFBD77BF4]]></sign></xml>
+
+2015/12/12 14:25:40     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:25:40     WeiPay 页面  paySign：558EE2B62C97C7531F3B61B06E8687CD
+
+2015/12/12 14:25:57     支付页面，用户=64
+
+2015/12/12 14:25:57     产品价格=0.01
+
+2015/12/12 14:25:57     WeiPay 页面  sign：25544CB11FB13469BE3040102787741A
+
+2015/12/12 14:25:57     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022557959,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[0f840be9b8db4d3fbd5ba2ce59211f55]]></nonce_str><out_trade_no><![CDATA[MB6420151212022557959]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[25544CB11FB13469BE3040102787741A]]></sign></xml>
+
+2015/12/12 14:25:57     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:25:57     WeiPay 页面  paySign：9180D6C2B7A1D0932322986F673C97CE
+
+2015/12/12 14:26:23     支付页面，用户=64
+
+2015/12/12 14:26:24     产品价格=0.01
+
+2015/12/12 14:26:24     WeiPay 页面  sign：74C4698988E42DE6089E5C5C397F0782
+
+2015/12/12 14:26:24     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212022624693,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[53e3a7161e428b65688f14b84d61c610]]></nonce_str><out_trade_no><![CDATA[MB6420151212022624693]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[74C4698988E42DE6089E5C5C397F0782]]></sign></xml>
+
+2015/12/12 14:26:24     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:26:24     WeiPay 页面  paySign：3B72EE6B4F28342B5DF8FA9136B25C02
+
+2015/12/12 14:33:33     支付页面，用户=64
+
+2015/12/12 14:33:34     产品价格=0.01
+
+2015/12/12 14:33:34     WeiPay 页面  sign：001D97CAF6E87749C1986BF617CB780C
+
+2015/12/12 14:33:34     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212023334975,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[92977ae4d2ba21425a59afb269c2a14e]]></nonce_str><out_trade_no><![CDATA[MB6420151212023334975]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[001D97CAF6E87749C1986BF617CB780C]]></sign></xml>
+
+2015/12/12 14:33:34     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:33:34     WeiPay 页面  paySign：9FE8F56FCDBD642AB24568E14AE7274E
+
+2015/12/12 14:33:51     支付页面，用户=64
+
+2015/12/12 14:33:51     产品价格=0.01
+
+2015/12/12 14:33:51     WeiPay 页面  sign：EBA1C2D2B28A4F7DC495BD130B7031FF
+
+2015/12/12 14:33:51     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212023351328,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[cd00692c3bfe59267d5ecfac5310286c]]></nonce_str><out_trade_no><![CDATA[MB6420151212023351328]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[EBA1C2D2B28A4F7DC495BD130B7031FF]]></sign></xml>
+
+2015/12/12 14:33:52     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:33:52     WeiPay 页面  paySign：B5A3944361BE3D6F7D455A5D81A23DB7
+
+2015/12/12 14:34:03     支付页面，用户=64
+
+2015/12/12 14:34:03     产品价格=0.01
+
+2015/12/12 14:34:03     WeiPay 页面  sign：2A0520397B25EB9111ECEC7B06B3EDC5
+
+2015/12/12 14:34:03     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB6420151212023403804,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[dc5689792e08eb2e219dce49e64c885b]]></nonce_str><out_trade_no><![CDATA[MB6420151212023403804]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[2A0520397B25EB9111ECEC7B06B3EDC5]]></sign></xml>
+
+2015/12/12 14:34:03     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:34:03     WeiPay 页面  paySign：905315E32B43A11DA5E4434FAF89E989
+
+2015/12/12 14:34:20     支付页面，用户=64
+
+2015/12/12 14:34:20     产品价格=0.01
+
+2015/12/12 14:34:20     WeiPay 页面  sign：98F8493FE2D341509D35F209F3689019
+
+2015/12/12 14:34:20     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB64201512120234200,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[cfcd208495d565ef66e7dff9f98764da]]></nonce_str><out_trade_no><![CDATA[MB64201512120234200]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[98F8493FE2D341509D35F209F3689019]]></sign></xml>
+
+2015/12/12 14:34:20     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:34:20     WeiPay 页面  paySign：E090E5DAD77526AB2F322212686E7A74
+
+2015/12/12 14:34:34     支付页面，用户=64
+
+2015/12/12 14:34:34     产品价格=0.01
+
+2015/12/12 14:34:34     WeiPay 页面  sign：BB7CA4E786E3E76E2DC3CDF8C164C558
+
+2015/12/12 14:34:35     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.chinesecom.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxa71f86e08b6e6299]]></appid><attach><![CDATA[64,0,0.01,MB64201512120234347,1]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[8f14e45fceea167a5a36dedd4bea2543]]></nonce_str><out_trade_no><![CDATA[MB64201512120234347]]></out_trade_no><openid><![CDATA[o5hLXwTnQFaBAwM-vetErnAW6Z-8]]></openid><mch_id><![CDATA[1288000801]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[BB7CA4E786E3E76E2DC3CDF8C164C558]]></sign></xml>
+
+2015/12/12 14:34:35     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/12/12 14:34:35     WeiPay 页面  paySign：90B0D8E0542377D896880753764D7325
+

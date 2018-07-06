@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="MobileOptimized" content="240" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <title>分享二维码</title>
+    <script src="Js/jquery.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/sub.css" />
+    <script>
+        (function ($) {
+            $.getUrlParam = function (name) {
+                var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+                var r = window.location.search.substr(1).match(reg);
+                if (r != null) return unescape(r[2]); return null;
+            }
+        })(jQuery);
+
+        $(function () {
+            var lg = $.getUrlParam("uid");
+            if (lg != null && lg != "") {
+                $.ajax({
+                    type: "post",
+                    async: false,
+                    cache: false,
+                    url: "Handler.ashx",
+                    dataType: "json",
+                    data: {
+                        "Method": "MemberisfxsErMa",
+                        "userID": lg
+                    },
+                    success: function (data) {
+                        if (data) {
+                            $("#mco33ver2").empty();
+
+                            $("#mco33ver2").append(data);
+
+                        }
+                    },
+                    error: function () {
+                        alert('连接超时');
+                    }
+
+                });
+
+            }
+        });
+
+    </script>
+</head>
+<body aria-atomic="False" id="mco33ver2">
+
+ <!--   <div >
+        <img src="../upload_Img/erma.png" width="100%" />
+         <img src="Img/wm.jpg" width="100%" />
+    </div>-->
+<!--   <img src="Img/wm.jpg" width="100%" />-->
+</body>
+</html>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+    document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
+        // 通过下面这个API隐藏右上角按钮
+        WeixinJSBridge.call('showOptionMenu');
+    });
+
+</script>

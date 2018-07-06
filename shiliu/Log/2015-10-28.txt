@@ -1,0 +1,42 @@
+﻿2015/10/28 23:47:59     支付页面，用户=5
+
+2015/10/28 23:47:59     产品价格=1
+
+2015/10/28 23:47:59     WeiPay 页面  sign：48807FCAF9CE3D568FA5ECCCEFF47E76
+
+2015/10/28 23:47:59     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,0,1,MB520151028114759454,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[e44fea3bec53bcea3b7513ccef5857ac]]></nonce_str><out_trade_no><![CDATA[MB520151028114759454]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[48807FCAF9CE3D568FA5ECCCEFF47E76]]></sign></xml>
+
+2015/10/28 23:47:59     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/28 23:47:59     WeiPay 页面  paySign：4F4327BFCBF6ED79ECA39191ED6F1165
+
+2015/10/28 23:48:03     支付页面，用户=5
+
+2015/10/28 23:48:03     产品价格=1
+
+2015/10/28 23:48:03     WeiPay 页面  sign：F4FC72D23549BB4A48808F9C165CF099
+
+2015/10/28 23:48:03     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,0,1,MB520151028114803730,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[d5cfead94f5350c12c322b5b664544c1]]></nonce_str><out_trade_no><![CDATA[MB520151028114803730]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[F4FC72D23549BB4A48808F9C165CF099]]></sign></xml>
+
+2015/10/28 23:48:03     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/28 23:48:03     WeiPay 页面  paySign：574A5A860D9B45200673134570A72717
+
+2015/10/28 23:48:13     支付页面，用户=5
+
+2015/10/28 23:48:13     产品价格=1
+
+2015/10/28 23:48:13     WeiPay 页面  sign：252F70907581255A11B9700A722CEDCD
+
+2015/10/28 23:48:13     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,0,1,MB520151028114813377,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[d34ab169b70c9dcd35e62896010cd9ff]]></nonce_str><out_trade_no><![CDATA[MB520151028114813377]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[252F70907581255A11B9700A722CEDCD]]></sign></xml>
+
+2015/10/28 23:48:13     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/28 23:48:13     WeiPay 页面  paySign：2D38C4A42C74A20CB0F688E7EE42052B
+

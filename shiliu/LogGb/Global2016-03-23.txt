@@ -1,0 +1,10 @@
+﻿2016/3/23 21:41:32     一般access_token：6vxn9tm6UrkHKeaW8_viZuBGfN_X1zOqoZsQ_tChetlKNsd02_8BqfEex0FP3w9wwrgWnTSUBFLejNQicW71U_deZk9HBDDDr_xC98S_IWqVYcHPBuDMzaLznUUpGReXDOMeAAARCA
+
+2016/3/23 21:41:32     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EzZ6t3vtBn5SAk3CULHmJKKoocrh2-_zjO2FS6UKqLdXg
+
+2016/3/23 21:41:32     2016-03-23 21:41:31
+
+2016/3/23 21:41:36     每月排行缓存完成
+
+2016/3/23 21:43:49     我的排名缓存完成
+

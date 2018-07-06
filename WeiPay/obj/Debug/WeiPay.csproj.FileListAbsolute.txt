@@ -1,0 +1,13 @@
+E:\meiyan\WeiPay\bin\Debug\WeiPay.dll
+E:\meiyan\WeiPay\bin\Debug\WeiPay.pdb
+E:\meiyan\WeiPay\obj\Debug\WeiPay.dll
+E:\meiyan\WeiPay\obj\Debug\WeiPay.pdb
+E:\meiyan\WeiPay\obj\Debug\WeiPay.csprojResolveAssemblyReference.cache
+D:\shiliu\WeiPay\bin\Debug\WeiPay.dll
+D:\shiliu\WeiPay\bin\Debug\WeiPay.pdb
+D:\shiliu\WeiPay\obj\Debug\WeiPay.dll
+D:\shiliu\WeiPay\obj\Debug\WeiPay.pdb
+D:\shiliu\WeiPay\bin\Debug\Newtonsoft.Json.dll
+D:\shiliu\WeiPay\bin\Debug\Model.dll
+D:\shiliu\WeiPay\bin\Debug\Model.pdb
+D:\shiliu\WeiPay\obj\Debug\WeiPay.csprojResolveAssemblyReference.cache

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>问卷调查</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link rel="stylesheet" type="text/css" href="css/cs-select.css" />
+    <link rel="stylesheet" type="text/css" href="css/cs-skin-boxes.css" />
+    <script src="../Js/jquery-1.4.2.js" type="text/javascript"></script>
+    <script src="../Web/JS/jquery-1.8.3.min.js"></script>
+    <script src="../Web/Js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/modernizr.custom.js"></script>
+    <script type="text/javascript">
+        //var arr = new Array();
+//        $(function(){
+//        var url="../Index.aspx";
+//        window.location.href(url);
+//        });
+        window.onload = function () {
+              //var _url="http://localhost:45727/ADMIN/Index.aspx";
+             // window.location.href(_url);
+             // window.location(_url);
+          }
+
+
+
+        function SendMsg() {
+          
+            var sid0 = $("li")[0].id;
+            var itemWenda = $("textarea");
+            //var item = $("input[type=radio][required]");
+            var item= $(":radio:checked");
+            if (item != undefined) {
+                for (var i = 0; i < item.length; i++) {
+                    //arr[i] = item[i].id;
+                    $.ajax({
+                        type: "get",
+                        async: false,
+                        cache: false,
+                        url: "GetQuestion.ashx",
+                        dataType: "json",
+                        data: { "Method": "SubmitXuanZe",
+                            "nID": item[i].name,
+                            "chk": item[i].id,
+                            "sid0": sid0,
+                        },
+                        beforeSend: function () {
+                            //showLoader();
+                        },
+                        success: function (hd) {
+                            if (hd != null && hd != "") {
+
+                            }
+
+                        },
+                        error: function () {
+                            alert('提交超时');
+                        },
+                        complete: function () {
+                            if(itemWenda==undefined||itemWenda.length<=0){
+                                if(i==item.length-1){
+                                  alert('提交成功，感谢您的参与！');
+                                 
+                                  setTimeout("javascript:location.href='../Index.aspx'", 1000);
+                                
+                                 }
+                             }
+                        }
+                    });
+                }
+
+            }
+
+            var item = $("textarea");
+            if (item != undefined) {
+                for (var i = 0; i < item.length; i++) {
+                    //arr[i] = item[i].id;
+                    if (item[i] != null) {
+                        var ss = item[i].value;
+                        $.ajax({
+                            type: "get",
+                            async: false,
+                            cache: false,
+                            url: "GetQuestion.ashx",
+                            dataType: "json",
+                            data: { "Method": "SubmitWenDa",
+                                "content": item[i].value,
+                                "nID": item[i].id,
+                                "sid0": sid0,
+                            },
+                            beforeSend: function () {
+                                //showLoader();
+                            },
+                            success: function (hd) {
+                                if (hd != null && hd != "") {
+
+                                }
+
+                            },
+                            error: function () {
+                                alert('提交超时');
+                            },
+                            complete: function () {
+                                if(i==item.length-1){
+                                 // alert('提交成功，感谢您的参与！');
+                                 // var url = "../Index.aspx";
+                                  //url = encodeURI(url);
+                                  //window.location.href = url;
+                                  alert('提交成功，感谢您的参与！');
+                                 
+                                  setTimeout("javascript:location.href='../Index.aspx'", 1000);
+                                
+                               }
+                            }
+                        });
+                    }
+                }
+
+            }
+            //alert(item);
+        }
+    </script>
+</head>
+<body>
+    <div class="fs-form-wrap" id="fs-form-wrap">
+        <form id="myform" class="fs-form fs-form-full" autocomplete="off">
+        <ol class="fs-fields" id="idolk">
+          
+
+        </ol>
+        <!-- /fs-fields -->
+        <button class="fs-submit" onclick="SendMsg()" type="button">
+            发送答案</button>
+        </form>
+        <!-- /fs-form -->
+    </div>
+    <!-- /fs-form-wrap -->
+    <!--     <script type="text/javascript">
+
+            // 加载所有的DOM结构
+            $(function () {
+                //                $(document).ready(function () {
+                $.ajax({
+                    type: "get",
+                    async: false,
+                    cache: false,
+                    url: "GetQuestion.ashx",
+                    dataType: "json",
+                    data: { "Method": "GetQuestions" },
+                    beforeSend: function () {
+                        //showLoader();
+                    },
+                    success: function (hd) {
+                        if (hd != null && hd != "") {
+                            $("#idolk").empty();
+                            $("#idolk").append(hd);
+                        }
+
+                    },
+                    error: function () {
+                        alert('连接超时');
+                    },
+                    complete: function () {
+                        //  $('#list_hd').listview('refresh');
+                        // hideLoader();
+                    }
+                });
+
+            });
+
+            //dom完全加载后执行
+            //        window.onload = function () {
+            //            $.ajax({
+            //                type: "get",
+            //                async: false,
+            //                cache: false,
+            //                url: "GetQuestion.ashx",
+            //                dataType: "json",
+            //                data: { "Method": "GetQuestions" },
+            //                beforeSend: function () {
+            //                    //showLoader();
+            //                },
+            //                success: function (hd) {
+            //                    if (hd != null && hd != "") {
+            //                        $("#idolk").empty();
+            //                        $("#idolk").append(hd);
+            //                    }
+
+            //                },
+            //                error: function () {
+            //                    alert('连接超时');
+            //                },
+            //                complete: function () {
+            //                    //  $('#list_hd').listview('refresh');
+            //                    // hideLoader();
+            //                }
+            //            });
+            //        } 
+    </script>-->
+    <script type="text/javascript" src="js/classie.js"></script>
+    <script type="text/javascript" src="js/selectFx.js"></script>
+    <script type="text/javascript" src="js/fullscreenForm.js"></script>
+    <script type="text/javascript">
+        (function () {
+            var formWrap = document.getElementById('fs-form-wrap');
+
+            [ ].slice.call(document.querySelectorAll('select.cs-select')).forEach(function (el) {
+                new SelectFx(el, {
+                    stickyPlaceholder: false,
+                    onChange: function (val) {
+                        document.querySelector('span.cs-placeholder').style.backgroundColor = val;
+                    }
+                });
+            });
+
+            new FForm(formWrap, {
+                onReview: function () {
+                    classie.add(document.body, 'overview'); // for demo purposes only
+                }
+            });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "shiliu", ".", "{61E8F909-35CC-4222-B2A3-8C66CB33E76F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{f5fd6ca9-d32d-43b7-b9e9-8512347d651b}|Model.dll;{46ffc74d-0b41-416d-bba2-ea3a941ba1bd}|WeiPay.dll;{96ff835e-939c-41b4-8a71-6a02424fc3ec}|WpPCHelper.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/shiliu"
+		Debug.AspNetCompiler.PhysicalPath = "..\shiliu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\shiliu\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/shiliu"
+		Release.AspNetCompiler.PhysicalPath = "..\shiliu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\shiliu\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "26209"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\Model\Model.csproj", "{F5FD6CA9-D32D-43B7-B9E9-8512347D651B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiPay", "..\WeiPay\WeiPay.csproj", "{46FFC74D-0B41-416D-BBA2-EA3A941BA1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpPCHelper", "..\WpPCHelper\WpPCHelper.csproj", "{96FF835E-939C-41B4-8A71-6A02424FC3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E8F909-35CC-4222-B2A3-8C66CB33E76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E8F909-35CC-4222-B2A3-8C66CB33E76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E8F909-35CC-4222-B2A3-8C66CB33E76F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E8F909-35CC-4222-B2A3-8C66CB33E76F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F5FD6CA9-D32D-43B7-B9E9-8512347D651B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FD6CA9-D32D-43B7-B9E9-8512347D651B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FD6CA9-D32D-43B7-B9E9-8512347D651B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FD6CA9-D32D-43B7-B9E9-8512347D651B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FFC74D-0B41-416D-BBA2-EA3A941BA1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FFC74D-0B41-416D-BBA2-EA3A941BA1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FFC74D-0B41-416D-BBA2-EA3A941BA1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FFC74D-0B41-416D-BBA2-EA3A941BA1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FF835E-939C-41B4-8A71-6A02424FC3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FF835E-939C-41B4-8A71-6A02424FC3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FF835E-939C-41B4-8A71-6A02424FC3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FF835E-939C-41B4-8A71-6A02424FC3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

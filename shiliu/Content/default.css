@@ -1,0 +1,38 @@
+﻿
+.deepblue-left { background-image: url('../../Images/bg.gif'); color:#F1FAFA; background-repeat: repeat-x;height: 15px; line-height: 15px;}
+.deepblue-right { background-color: #90AAC5;text-align: right}
+.title-12-b-center { font-size: 12px; font-weight: bold; text-align: center }
+ .txtstyle {
+            FONT-WEIGHT: 400;
+            FONT-FAMILY: "宋体";
+            FONT-SIZE: 12px;
+            text-align: right;
+            border-top: 0px solid;
+            border-spacing: 0px solid;
+            height: 28px;
+        }
+/*==================== 列表(GridView)样式 ====================*/
+
+.list .grid tr th
+{
+  background-image: url('../../Images/bg.gif'); background-repeat: repeat-x;height: 15px; line-height: 15px;color:#F1FAFA;
+}
+.list1 .grid tr th
+{
+ background-image: url('../../Images/bg.gif'); background-repeat: repeat-x; height: 15px; line-height: 15px; color:#F1FAFA;
+}
+.list2 .grid tr th
+{
+	background-image: url('../../Images/bg.gif'); background-repeat: repeat-x; height: 15px; line-height: 15px;color:#F1FAFA;
+}
+
+/*==================== 列头(GridView)样式 ====================*/
+.styleheader {
+            FONT-WEIGHT: 400;
+            FONT-FAMILY: "宋体";
+            FONT-SIZE: 12px;
+            text-align: center;
+            border-top: 0px solid;
+            border-spacing: 0px solid;
+            height: 28px;
+        }

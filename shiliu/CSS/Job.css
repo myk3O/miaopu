@@ -1,0 +1,51 @@
+@charset "utf-8";
+@import "global.css";
+.About:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+* html .About {height: 1%;}
+
+.About{width:1000px; margin:0 auto; background:url(../images/bg_child.png) repeat-y  center top;}
+.AboutL{width:230px; padding:19px 0 19px 0; float:left; display:inline;}
+.AboutLT{width:190px; height:78px; background:url(../Images/about_03.jpg) no-repeat; margin-left:15px;}
+.AboutLT p{padding:14px 0 0 17px; font-size:24px; color:#ffffff; width:190px; height:26px;}
+.AboutLT span{padding:0 0 0 17px; font-size:18px; color:#ffffff; width:190px; height:0px; text-transform:uppercase;}
+
+.AboutLB{width:190px; margin:8px 0 0 15px;}
+.AboutLB ul li{ background:url(../Images/about_17.jpg) no-repeat; margin-bottom:8px;}
+.AboutLB ul li a{line-height:29px; width:166px; height:29px; display:block; padding-left:24px; color:#404041;}
+.AboutLB ul li a:hover, .AboutLB ul li a.cur{width:166px; height:29px; background:url(../Images/about_10.jpg) no-repeat; display:block; color:#FFF; text-decoration:none;}
+
+
+.AboutR{width:768px; float:right; display:inline; padding:19px 0;}
+.AboutRC{width:722px; margin:0 auto;}
+.AboutRCt{width:722px; border-bottom:1px solid #e2e2e2; height:26px;}
+.AboutRCt span{color:#000000; font-size:16px; margin-left:4px;}
+.AboutRCt font{color:#666666; font-size:12px; float:right; margin-right:4px; background:url(../Images/about_06.jpg) no-repeat 0 2px; padding-left:22px;}
+.AboutRCx{width:700px; padding:20px 14px; line-height:24px;}
+
+/*page*/
+.page{width:100%;}
+.page .page_con{height:22px;margin:0px auto;text-align:right;padding-bottom:0px;}
+.page .page_con a{line-height:16px;height:16px;border:1px solid #ccc;margin-left:3px;padding:1px 6px;color:#555;text-decoration:none;font-weight:bold;}
+.page .page_con a:hover,.page .page_con a.check{background:#0361A7;border:1px solid #0361A7;color:#fff;text-decoration:none;}
+.f_12{font-size:12px;}
+.f_14{font-size:14px;}
+.content{line-height:1.5;padding-bottom:60px;}	
+
+.pin_list{width:692px;background:url(../images/pin_list.jpg) repeat-y 0px 0px;}
+.pin_list li{width:692px;height:26px;line-height:26px;overflow:hidden;}
+.pin_list li.title{width:690px;height:24px;line-height:24px;background:url(../images/tit_c.jpg) repeat-x 0px 0px;border:1px solid #ebebeb;}
+.pin_list li span{float:left;display:inline;}
+.pin_list li span.pin_tit{width:292px;text-align:left;margin-left:53px; line-height:24px;}
+.pin_list li span.pin_tit a{line-height:24px;}
+.pin_list li span.pin_num{width:72px;text-align:center;}
+.pin_list li span.pin_place{width:104px;text-align:center;}
+.pin_list li span.pin_time{width:80px;text-align:center;margin-left:66px;}
+
+.table_pin{background:#e1e1e1;border-collapse:separate; border-spacing:1px;margin-bottom:22px;}
+.table_pin td{background:#ffffff;text-indent:13px;}
+.table_pin td.td_title{background:url(../images/tit_c.jpg) repeat-x 0px 0px;}
+
+.pin_box{width:690px;padding:17px;border:1px solid #cfcfcf;line-height:2;}
+.pin_box h3{height:26px;line-height:26px;background:#E3EEF1;font-size:14px;font-weight:bold;text-indent:15px;margin-bottom:10px;}
+.pin_box .desc{padding:15px;}
+

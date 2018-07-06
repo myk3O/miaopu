@@ -1,0 +1,59 @@
+﻿@charset "utf-8";
+@import "animate.min.css";
+@import "font-awesome.css";
+@import "font-awesome.min.css";
+/* CSS Document */
+body{margin:0px; padding:0px; position:relative;background:#fff;height:100%; font-family:"微软雅黑";overflow-x: hidden;}
+div,ul,li,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,img,form,embed,label,ol,samp{margin:0;padding:0;border:0; font-size:12px; font-weight:normal;list-style:none; font-family:"微软雅黑";}
+img{border:none; /*width:100%;max-width:100%!important; width:expression(this.width > 100% ? "100%" : this.width)!important;*/}
+object,.dis{display:block}
+ul,li,ul li,ol,ol li,menu li{list-style:none;}
+.cls{clear:both;line-height:0px!important;height:0px!important;font-size:0px!important}
+select,input,textarea{vertical-align:middle;font-size:12px;outline:none; blr:exp ression(this.onFocus=this.blur()); font-family:"微软雅黑";-webkit-appearance: none;border-radius: 0px;}
+button{outline:none; blr:exp ression(this.onFocus=this.blur()); font-family:"fzlantingheis-r-gbregular"; font-size:14px;}
+.kong{height:49px;}
+a{color:#FF0000;text-decoration:none;outline:none; blr:exp ression(this.onFocus=this.blur());}
+a:hover{color:#f75f70;text-decoration:none;outline:none; blr:exp ression(this.onFocus=this.blur());}
+.HeadTop{height: 50px;}
+.inHeader{height: 92px;}
+.FootbqK{height: 47px; clear: both; display: inline-block;}
+.indXuXian{ height: 8px;width: 100%;display: inline-block;float: left;}
+
+
+/*-----头部-----*/
+.subProT{background:#ffffff;height:50px;position:fixed; top:0px; width:100%; z-index:99999999;box-sizing:border-box; -webkit-box-sizing:border-box;}
+.subProT ul li{ width: 25%;text-align: center;float: left;}
+.subProT ul li a{ width: 100%;font-size: 16px;line-height: 50px;color: #333333;display: inline-block;}
+.subProT ul li a:hover,.subProT ul li a.cur{color: #f75f70;}
+
+
+.subHeader{background:#f8f8f8;border-bottom: 1px solid #b1b1b1; height:50px;position:fixed; top:0px; width:100%; z-index:99999999;box-sizing:border-box; -webkit-box-sizing:border-box;text-align: center;}
+.subHeader samp{ width: 100%;float: left;height: 50px;line-height: 50px;text-align: center;font-size: 20px;color: #000000;}
+
+.Search{ width: 100%; background: #cdcdcd;padding:0;position: fixed;top: 50px;border-bottom: 1px solid #b1b1b1;z-index: 99999999}
+.Search li{ width: 49.8%;float: left;text-align: center;}
+.Search li:first-child{border-right: 1px solid #b1b1b1;}
+.Search li a{ width: 100%;display: inline-block;height: 40px;line-height: 40px;font-size: 16px;}
+.Search li a:hover,.Search li a.cur{ background:#ed8f01;color: #ffffff;}
+.Search input[type="search"]{ width: 90%; background: #ffffff;margin: 0 5%;padding-left: 8%;border-radius: 6px;border: 1px solid #c3c3c3;height: 30px;line-height: 22px;font-size: 14px;}
+.Search i{ position: absolute;top:14px;left: 8%;font-size: 14px;color: #7f7f7f;}
+/*-----头部-----*/
+
+.inContent{width:100%;box-sizing:border-box; -webkit-box-sizing:border-box;}
+.Content{width:100%;box-sizing:border-box; -webkit-box-sizing:border-box;}
+
+/*-----脚部-----*/
+.Footer{background:#ffffff;border-top: 1px solid #d9d9d5; position:fixed; bottom:0px; width:100%;height: 50px; z-index:99999999;box-sizing:border-box; -webkit-box-sizing:border-box;}
+.Footer ul li{width:25%; float:left; text-align:center;}
+.Footer ul li a{width:100%; display:inline-block; color:#616161;height: 50px;}
+.Footer ul li a:hover,.Footer ul li a.cur{}
+.Footer ul li a img{ width: 24px;margin-top: 6px;}
+.Footer ul li a p{}
+/*-----脚部-----*/
+
+.CouFooter{background:#ffffff;border-top: 1px solid #d9d9d5; position:fixed; bottom:0px; width:100%;height: 50px; z-index:99999999;box-sizing:border-box; -webkit-box-sizing:border-box;}
+.CouFooter ul li{width:80%; float:left; text-align:center;}
+.CouFooter ul li:first-child{width:20%;}
+.CouFooter ul li input{width:90%;background: #ed8f01;float: left;border-radius: 6px;border: none;margin-top: 7px;height: 36px;font-size: 14px;color: #fff; }
+.CouFooter ul li a{width:100%; display:inline-block; color:#616161;height: 50px;}
+.CouFooter ul li a img{ width: 24px;margin-top: 6px;}

@@ -1,0 +1,8 @@
+﻿@charset "utf-8";
+@import "global.css";
+
+.floatR{float:right;display:inline;}
+.news_other{padding-top:15px;line-height:24px;overflow:hidden;border-top:1px solid #b7b7b7;}
+.news_back{width:76px;height:20px;line-height:20px;text-align:center;background:url(../images/news_back.jpg) no-repeat 0px 0px;}
+
+

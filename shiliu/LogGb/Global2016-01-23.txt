@@ -1,0 +1,20 @@
+﻿2016/1/23 10:08:13     一般access_token：nmd2Z3o0uAb1SNW7W_MVDxSUD9h5w8TMp7v8SJkje-gaL3GjafXdjbf4VZz5kewY2-UuNLqCDiZthLewb69LsNwXQpzCaezVr7_Hx7NPjFkGCQjAAARNB
+
+2016/1/23 10:08:13     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-Ex4mvFd0Q41tNFyrKNNCz-v4trxl0HRmVQOUD_2fAENXQ
+
+2016/1/23 10:08:13     2016-01-23 10:08:12
+
+2016/1/23 10:09:05     每月排行缓存完成
+
+2016/1/23 10:12:23     我的排名缓存完成
+
+2016/1/23 20:10:17     一般access_token：k8G8fKX3Wv2BKjUIHL2Mws7WsbB__DV5xTSy6HL1EU85niCShyXTvIF9CHem0xctQuJAc34Z-fU7JSJQyMCkhUhNYYQFtLavn_N_K4kXz_gJVTgAHAXJH
+
+2016/1/23 20:10:17     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EwqCI-nBPhtZmGd6EI14zIct222a-e0xzXg0kzH3QMs-g
+
+2016/1/23 20:10:17     2016-01-23 20:10:16
+
+2016/1/23 20:10:54     每月排行缓存完成
+
+2016/1/23 20:13:03     我的排名缓存完成
+

@@ -1,0 +1,14 @@
+﻿2016/3/30 21:27:16     支付页面，用户=1
+
+2016/3/30 21:27:16     产品价格=300.00
+
+2016/3/30 21:27:16     WeiPay 页面  sign：1A2765A701750AE3B3C31A05B11F23A2
+
+2016/3/30 21:27:16     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://tv.gongxue168.com/Wap/Notify.aspx]]></notify_url><body><![CDATA[共学视频购买]]></body><appid><![CDATA[wxf7c89af8888e6202]]></appid><attach><![CDATA[1,0,30,GXSP120160330092716899,12]]></attach><total_fee><![CDATA[3000]]></total_fee><nonce_str><![CDATA[01882513d5fa7c329e940dda99b12147]]></nonce_str><out_trade_no><![CDATA[GXSP120160330092716899]]></out_trade_no><openid><![CDATA[oid7dt4LeaCwH6J8_a7cd8k_Shc0]]></openid><mch_id><![CDATA[1303851501]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[1A2765A701750AE3B3C31A05B11F23A2]]></sign></xml>
+
+2016/3/30 21:27:16     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2016/3/30 21:27:16     WeiPay 页面  paySign：F7B0FE1940BAD229D8B768E9FA364561
+

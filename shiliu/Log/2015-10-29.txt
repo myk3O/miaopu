@@ -1,0 +1,132 @@
+﻿2015/10/29 10:57:53     MakeOrder
+
+2015/10/29 10:57:53     数据未丢失
+
+2015/10/29 10:58:12     MakeOrder
+
+2015/10/29 10:58:12     数据未丢失
+
+2015/10/29 10:58:21     支付页面，用户=5
+
+2015/10/29 10:58:22     产品价格=1
+
+2015/10/29 10:58:22     WeiPay 页面  sign：AA3971356134A8CB4BCD2D487E66B1C1
+
+2015/10/29 10:58:22     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,1,1,MB520151029105822675,3]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[8fecb20817b3847419bb3de39a609afe]]></nonce_str><out_trade_no><![CDATA[MB520151029105822675]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[AA3971356134A8CB4BCD2D487E66B1C1]]></sign></xml>
+
+2015/10/29 10:58:22     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 10:58:22     WeiPay 页面  paySign：72031F56860B536985FB0E0C0A5DA54D
+
+2015/10/29 10:59:11     MakeOrder
+
+2015/10/29 10:59:11     数据未丢失
+
+2015/10/29 11:00:35     MakeOrder
+
+2015/10/29 11:00:35     数据未丢失
+
+2015/10/29 11:00:35     True
+
+2015/10/29 11:28:30     支付页面，用户=5
+
+2015/10/29 11:28:30     产品价格=1
+
+2015/10/29 11:28:30     WeiPay 页面  sign：C4BDA11EF1F77D9724C1BBCAEA531232
+
+2015/10/29 11:28:30     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,1,1,MB520151029112830406,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[8cb22bdd0b7ba1ab13d742e22eed8da2]]></nonce_str><out_trade_no><![CDATA[MB520151029112830406]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[C4BDA11EF1F77D9724C1BBCAEA531232]]></sign></xml>
+
+2015/10/29 11:28:31     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 11:28:31     WeiPay 页面  paySign：22B5BB3011BBAA988ED343DF1A564810
+
+2015/10/29 11:28:47     支付页面，用户=5
+
+2015/10/29 11:28:48     产品价格=1
+
+2015/10/29 11:28:48     WeiPay 页面  sign：E0DAF5CEE1D1D16630F9FC20FB1283CF
+
+2015/10/29 11:28:48     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,6,1,MB520151029112848940,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[8d6dc35e506fc23349dd10ee68dabb64]]></nonce_str><out_trade_no><![CDATA[MB520151029112848940]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[E0DAF5CEE1D1D16630F9FC20FB1283CF]]></sign></xml>
+
+2015/10/29 11:28:48     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 11:28:48     WeiPay 页面  paySign：6AB9CED5CC34D6E3B951876623642D0F
+
+2015/10/29 11:28:51     MakeOrder
+
+2015/10/29 11:28:51     数据未丢失
+
+2015/10/29 11:28:51     True
+
+2015/10/29 11:28:58     MakeOrder
+
+2015/10/29 11:28:58     数据未丢失
+
+2015/10/29 11:29:13     MakeOrder
+
+2015/10/29 11:29:13     数据未丢失
+
+2015/10/29 11:29:15     支付页面，用户=7
+
+2015/10/29 11:29:16     产品价格=1
+
+2015/10/29 11:29:16     WeiPay 页面  sign：C5B27852971367CE2FA13749EECFF6B3
+
+2015/10/29 11:29:16     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[7,6,1,MB720151029112916848,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[362e80d4df43b03ae6d3f8540cd63626]]></nonce_str><out_trade_no><![CDATA[MB720151029112916848]]></out_trade_no><openid><![CDATA[oH_PtswpVXcO96lLUDtDJcWPOe34]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[C5B27852971367CE2FA13749EECFF6B3]]></sign></xml>
+
+2015/10/29 11:29:16     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 11:29:16     WeiPay 页面  paySign：A0AEEB941D524E4F8AE41FD377E5164B
+
+2015/10/29 11:29:17     MakeOrder
+
+2015/10/29 11:29:17     数据未丢失
+
+2015/10/29 11:29:18     True
+
+2015/10/29 11:29:27     MakeOrder
+
+2015/10/29 11:29:27     数据未丢失
+
+2015/10/29 11:29:30     支付页面，用户=9
+
+2015/10/29 11:29:30     产品价格=1
+
+2015/10/29 11:29:30     WeiPay 页面  sign：976657C54D5492E0EDBBA8718965B85F
+
+2015/10/29 11:29:30     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[9,6,1,MB920151029112930461,4]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[0353ab4cbed5beae847a7ff6e220b5cf]]></nonce_str><out_trade_no><![CDATA[MB920151029112930461]]></out_trade_no><openid><![CDATA[oH_PtswpVXcO96lLUDtDJcPOe34]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[976657C54D5492E0EDBBA8718965B85F]]></sign></xml>
+
+2015/10/29 11:29:30     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 11:29:30     WeiPay 页面  paySign：0142A0120668D19568454A341A5141E7
+
+2015/10/29 11:29:31     MakeOrder
+
+2015/10/29 11:29:31     数据未丢失
+
+2015/10/29 11:29:31     True
+
+2015/10/29 11:29:40     支付页面，用户=5
+
+2015/10/29 11:29:40     产品价格=1
+
+2015/10/29 11:29:40     WeiPay 页面  sign：FF7FF5F22C19DD1101DE2E7C9994C9A9
+
+2015/10/29 11:29:40     WeiPay 页面  package（XML）：<xml><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><notify_url><![CDATA[http://www.missbeauty.net.cn/Wap/Notify.aspx]]></notify_url><body><![CDATA[MissBeauty视频购买]]></body><appid><![CDATA[wxabfee39cd9bf22c9]]></appid><attach><![CDATA[5,1,1,MB520151029112940910,3]]></attach><total_fee>1</total_fee><nonce_str><![CDATA[e205ee2a5de471a70c1fd1b46033a75f]]></nonce_str><out_trade_no><![CDATA[MB520151029112940910]]></out_trade_no><openid><![CDATA[oH_Pts9CB7ipys_cD6TqkCplbIEY]]></openid><mch_id><![CDATA[1276360001]]></mch_id><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[FF7FF5F22C19DD1101DE2E7C9994C9A9]]></sign></xml>
+
+2015/10/29 11:29:40     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>
+
+2015/10/29 11:29:40     WeiPay 页面  paySign：6504CB4CA64546D591315A317982EDCF
+

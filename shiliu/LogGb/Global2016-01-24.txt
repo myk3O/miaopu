@@ -1,0 +1,60 @@
+﻿2016/1/24 15:46:31     一般access_token：B6tumBzzozhJqy57_pTPXmvtRQAXBIqeXF2YcCNaMAo8HPYSwEGDNIfVdpQt6eRIRoZLmjUcZLSpeGvvEJhDuny_zHrZe7DWE5zt6kdY6bEQHRcAEATKU
+
+2016/1/24 15:46:31     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-Ey2k6SLIx1PYJevM4htkVDMaAJ3F_uT3QERh0z2EYgifg
+
+2016/1/24 15:46:31     2016-01-24 15:46:30
+
+2016/1/24 15:48:12     每月排行缓存完成
+
+2016/1/24 15:50:32     我的排名缓存完成
+
+2016/1/24 17:24:39     一般access_token：GNNJNNk0n42y9UWUSN4z1M81wiReOa4yHGavqIDAvjX_9Jah6MjEnM1kk_6T0z9u2QG0SrKNqg8LQFRnnR_gcmT8ehU7fQqz1ti4QvgYnYUHMRbACAZEJ
+
+2016/1/24 17:24:39     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-Ezf9xk8GjnI0moJAR6X81svq2MBlFcsu-hQNrRzfgmCMQ
+
+2016/1/24 17:24:39     2016-01-24 17:24:38
+
+2016/1/24 17:25:12     每月排行缓存完成
+
+2016/1/24 17:27:14     我的排名缓存完成
+
+2016/1/24 17:38:07     一般access_token：tU1dfvUfMFzveI-ah6NySsh4eI2bb6-ChBceEDQQwKlPb-zGHSa6SeEA9ur6vw71qKU98574QrSQHqu0yEVb4gw98wcX_5p_wYyBcr5evUMUXCaADAEHM
+
+2016/1/24 17:38:08     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-Ezf9xk8GjnI0moJAR6X81svq2MBlFcsu-hQNrRzfgmCMQ
+
+2016/1/24 17:38:08     2016-01-24 17:38:07
+
+2016/1/24 17:38:47     每月排行缓存完成
+
+2016/1/24 17:41:15     我的排名缓存完成
+
+2016/1/24 20:08:25     一般access_token：GRql4ew96-9uklsTlsVQF3GkRxv9lEtIuWp29zTLgEYVjaiCipEKa6Fooe6ifialFxbs2zWsTKld43pLg8nzQLqQ0QLSREFMQrlSXXq4Tq4EUJeAHAQGV
+
+2016/1/24 20:08:25     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EyvolxH6Na2TF0-EsfNRJyNruiN3i63ecT0If8KoqilgQ
+
+2016/1/24 20:08:25     2016-01-24 20:08:25
+
+2016/1/24 20:08:58     每月排行缓存完成
+
+2016/1/24 20:10:50     我的排名缓存完成
+
+2016/1/24 20:53:57     一般access_token：IiLzs9enOvmVthufGOalkYIHUGfiP73Q4kvVUoWrf1PbFZouvCHZZsda4UGRTJuD2bIvznpmNs8oce-MySISngvwYq8Co8Bv_Me33TlW7GsUOJjAEAFZU
+
+2016/1/24 20:53:57     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EyvolxH6Na2TF0-EsfNRJyNruiN3i63ecT0If8KoqilgQ
+
+2016/1/24 20:53:57     2016-01-24 20:53:57
+
+2016/1/24 20:54:38     每月排行缓存完成
+
+2016/1/24 20:57:02     我的排名缓存完成
+
+2016/1/24 22:25:07     一般access_token：4F0neONIBBqf3bQaS4MI9uJg0slOdmL6qlCRfnz9NzoyTh7WZVtCu6RNSz451W8RHBYAlxJpYZA3jlF1_FTvL8MO-syyU87n4rSnWh-8-jwZBAfAJATVU
+
+2016/1/24 22:25:07     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EzzJ-jYNn1hRFTL7JnsaUvDojGZtqGE39bz7T0dIPmX9g
+
+2016/1/24 22:25:07     2016-01-24 22:25:06
+
+2016/1/24 22:25:50     每月排行缓存完成
+
+2016/1/24 22:28:29     我的排名缓存完成
+

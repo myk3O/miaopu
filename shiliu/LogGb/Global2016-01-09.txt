@@ -1,0 +1,12 @@
+﻿2016/1/9 11:58:33     一般access_token：Pa6__tC1wrqN26Cr3W9ykUrjD7-I4oP3Boj5HhGTusKYP_zSPKul8VmAfcKeNgaRedHyz-_mGQGJhVzkA2oryUEcg-aySvjiHaqXwqhexNADGRhABAVYJ
+
+2016/1/9 11:58:33     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EzH4LTP-qkAbcusmao4fI9fplKWMEOGIblZ1Qd9UcmJkg
+
+2016/1/9 11:58:33     2016-01-09 11:58:33
+
+2016/1/9 13:02:09     一般access_token：VY_zSqtmfUBYroeHylb-p7QjGl_-zYuonL3BhMC91VwT6MpM9b-UykmlOAHHMOJh_RnbeVr9NNnFcmQ__YfFyTjEBE10mGw6FUV85VoOui4DIYcAIAVAQ
+
+2016/1/9 13:02:09     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-EwgPv_g3ez_FNwFMkVKcRoNvkFfX34Sjx524hBn6KiPpg
+
+2016/1/9 13:02:09     2016-01-09 13:02:09
+
