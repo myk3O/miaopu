@@ -25,3 +25,9 @@ bld/
 # Visual Studio 2015 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the
+
+
+shiliu/.vs/
+WeiPay/obj/
+WpPCHelper/obj/
+Model/obj/
