@@ -1,6 +1,0 @@
-﻿2016/1/12 16:44:38     一般access_token：4vMao83VxdXB8nvzh-2NvAxrU-6DYOlli1mukNG25klCUGV6pkM2tVq9D3-Bdpp9dAybsNtiF8cJQfZSzAu82da1N5SWFAu--3Pukq3alfIDKNdACAXEH
-
-2016/1/12 16:44:38     jsapi_ticket：sM4AOVdWfPE4DxkXGEs8VLeNlLOdHA3uIa38mcSv-Ey5LUk7mwSYdwBbHBRE6-0Kbm7ySxKsMNhtmRLGrhjWxw
-
-2016/1/12 16:44:38     2016-01-12 16:44:38
-
